@@ -1,6 +1,6 @@
 ---
 title: "analysis"
-author: "Iris Zhong"
+author: "Iris Zhong" with "Richard Tang"
 date: "11/19/2021"
 output: html_document
 ---
